@@ -1,0 +1,219 @@
+.banner {
+    display: flex;
+    flex-direction: column;  
+    justify-content: center;
+    align-items: center; 
+    background-image: url('resources/images/banner_background_full.jpg');
+    height: 1080px;
+    background-size: cover;
+}
+
+.banner h1 {
+    font-family: "Great Vibes", serif;
+    font-size: 328px;
+    font-weight: 500;
+    color: #FFDE00;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.banner h2 {
+    font-family: "Source Serif 4", serif;
+    font-size: 45px;
+    font-weight: 300;
+    color: white;
+    position: relative;
+    left: 12rem;
+    top: -7.5rem;
+    margin-top: 0;
+}
+
+.phrase {
+    height: 480px;
+    background-size: cover;
+    margin: 300px auto;
+}
+
+.phrase p {
+    color:#006D6D;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.phrase .poppins {
+    font-family: "Poppins", serif;
+    font-size: 28px;
+    color: #006D6D;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.phrase .vibes {
+    font-family: "Great Vibes", serif;
+    font-size: 120px;
+    color: #006D6D;
+}
+
+.phrase .serif {
+    font-family: "Source Serif 4", serif;
+    font-size: 120px;
+    font-weight: 600;
+    color: #006D6D;
+    text-transform: uppercase;
+}
+
+.collection {
+    background-color: #006D6D;
+    height: 1250px;
+}
+
+.collection h2 {
+    font-family: "Great Vibes", serif;
+    font-size: 220px;
+    font-weight: 500;
+    color: #FFDE00;
+    width: fit-content;
+    margin: 0 auto;
+    padding-top: 5%;
+    padding-bottom: 0;
+}
+
+.collection h3 {
+    font-family: "Great Vibes", serif;
+    font-size: 80px;
+    font-weight: 300;
+    color: white;
+    width: fit-content;
+    position: relative;
+    left: 1100px;
+    top: -190px;
+}
+
+.collection .image {
+    display: inline-block;
+    width: 300px;
+    margin-left: 130px;
+    margin-top: -200px;
+}
+
+.collection img {
+    width: 400px;
+}
+
+.collection p {
+    position: relative;
+    top: -380px;
+    left: 150px;
+    background-color: #FFDE00;
+    color:#006D6D;
+    padding: 30px;
+    padding-left: 80px;
+    width: 200px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.poppins {
+    font-family: "Poppins", serif;
+    font-size: 28px;
+    color: #006D6D;
+    margin-bottom: 10px;
+}
+
+footer {
+    height: 200px;
+    background-size: cover;
+    width: fit-content;
+    margin: 100px auto;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.table img {
+    width: 300px;
+}
+
+.table {
+    display: flex;
+    flex-direction: column;  
+    justify-content: center;
+    align-items: center; 
+    background-color:#006D6D;
+    padding-bottom: 170px;
+}
+
+.table h2 {
+    font-family: "Great Vibes", serif;
+    font-size: 220px;
+    font-weight: 500;
+    color: #FFDE00;
+    width: fit-content;
+    margin: 0 auto;
+    padding-top: 18%;
+    padding-bottom: 0;
+}
+
+.table h3 {
+    font-family: "Great Vibes", serif;
+    font-size: 80px;
+    font-weight: 300;
+    color: white;
+    width: fit-content;
+    position: relative;
+    left: 40rem;
+    top: -12rem;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 6px;
+    box-sizing: border-box;
+    border: 4px solid #FFDE00;
+    margin: 0 auto;
+  }
+  
+  th,
+  td {
+    padding: 20px;
+  }
+  
+  tbody td {
+    text-align: center;
+  }
+
+  th {
+    background-color: whitesmoke;
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #006D6D;
+    text-transform: uppercase;
+  }
+
+  .button td {
+    border-top: 2px solid #FFDE00;
+    font-family: "Great Vibes", sans-serif;
+    font-size: 35px;
+    font-weight: 500;
+    padding: 0px;
+    color: #FFDE00;
+    letter-spacing: 4px;
+  }
+
+  .button td:hover{
+    background-color: #FFDE00;
+    color:#006D6D;
+  }
+
+  .table .container {
+    margin-top: -150px;
+  }
+
+
+    
