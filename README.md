@@ -1,7 +1,8 @@
 # Underwater Collection
 
 *Underwater Collection* is a web-base designed to practice HTML and CSS. It showcases a collection of tattoo designs inspired by marine life. The project features elegant typography from Google Fonts, captivating visuals created by me, and interactive elements to enhance the user experience.
-`https://github.com/user-attachments/assets/fa87426e-116e-4a08-84db-227d0dad207d`
+
+[Upload product video ](https://github.com/user-attachments/assets/e0ea7111-f40d-45f1-93fd-8b55a93524de)
 
 ---
 
