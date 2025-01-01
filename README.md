@@ -6,7 +6,7 @@
 
 ---
 
-##  ✅ Features
+## ✅ Features
 - *Responsive Design* - Ensures seamless viewing on different devices and screen sizes.
 - *Typography Variety* - Uses Google Fonts for a mix of serif, sans-serif, and script styles.
 - *Dynamic Table Display* - Showcases tattoo designs in an organized table format with hover effects.
@@ -17,7 +17,7 @@
 - *CSS3* - Stylesheets for layout, fonts, and responsiveness.
 - *Google Fonts* - Typography integration for diverse font styles.
 
-##📁 Folder Structure
+## 📁 Folder Structure
 
 	project-root/
 	├── index.html
